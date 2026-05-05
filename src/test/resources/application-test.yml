@@ -1,0 +1,7 @@
+rate-limit:
+  enabled: true
+  backend: in-memory
+
+logging:
+  level:
+    io.github.davidalmeidac.ratelimit: DEBUG

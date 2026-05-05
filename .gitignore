@@ -1,0 +1,27 @@
+target/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+out/
+build/
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper logs
+.mvn/wrapper/maven-wrapper.jar.lck
+
+# Maven Central credentials
+settings-publish.xml
+
+# GPG keys (just in case)
+*.asc
+*.gpg
+*.key
